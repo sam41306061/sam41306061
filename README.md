@@ -1,44 +1,31 @@
-Here’s a template based on the profile provided. You can easily fill in your own details:
-
----
-
 # 👋 Hi, I'm Sam Schoenberg
-I’m the QA Developer at Vail Resorts 🎖️ and a Software Engineer focused on harnessing technology to significantly impact the tech industry and beyond.
+I’m a QA Developer at Vail Resorts 🎖️ and a Software Engineer focused on harnessing technology to make a significant impact in the tech industry and beyond.
 
 ## About Me
-With a background in [Your Background], I bring a unique combination of [Your Key Strengths] to the programming world. My passion lies in developing software solutions that not only solve problems but also create opportunities for [Your Target Audience or Cause].
+With a background in finance and economics, I bring a unique combination of technical and financial expertise to the programming world. My passion lies in developing software solutions that solve problems and create opportunities in DeFi and finance.
 
 ## Technical Skills 🛠️
-- **Languages:** [Your Languages]
-- **Frameworks & Libraries:** [Your Frameworks & Libraries]
-- **Tools & Platforms:** [Your Tools & Platforms]
-- **Data Science & AI:** [Your Data Science & AI Skills]
+- **Languages:** TypeScript/JavaScript, Solidity, CSS, HTML
+- **Frameworks & Libraries:** React, Vue, Hardhat, Node.js
+- **Tools & Platforms:** ACC, Azure, Git, ACC
 
 ## Key Projects 📚
-- **[Project 1 Name]:** [Brief description of Project 1]
-- **[Project 2 Name]:** [Brief description of Project 2]
-- **[Project 3 Name]:** [Brief description of Project 3]
-- **[Project 4 Name]:** [Brief description of Project 4]
-- **[Project 5 Name]:** [Brief description of Project 5]
+- **Redux Counter for Blockchain:** Basic implementation of Solidity into a React counter application.
+- **Blockchain Exchange:** Fully functional landing page for a DApp exchange platform.
+- **Trading Bot:** A trading bot application that analyzes market trends.
+- **Projector-Go-Typescript-Rust:** A polyglot CLI terminal application written in three languages.
 
-You can view these and more [here](#).
-
-## Leadership & Advocacy 🌟
-- **[Your Leadership Role]:** [Description of your leadership role and impact]
-- **Community Engagement:** [Description of your community engagement efforts]
-- **Public Speaking:** [Description of your public speaking and advocacy efforts]
+You can view these and more at [My GitHub](https://github.com/sam41306061?tab=repositories).
 
 ## Professional Goals 🚀
-- **Career Development:** [Your career development goals]
-- **Continuous Learning:** [Your commitment to learning and professional growth] 📈
+- **Career Development:** Continuously seeking opportunities to build and enhance my software development skills.
+- **Continuous Learning:**
+  - Full Stack JavaScript Bootcamp: Udemy
+  - [Certificate](https://www.udemy.com/certificate/UC-d38166f5-8aec-488a-8416-8bd8ce19106b/)
 
 ## Connect with Me 📬
-- 🐦 [Twitter](#)
-- 📫 [Email](#)
-- 🔗 [LinkedIn](#)
+- 📫 Email: schoenbergwebtools@gmail.com
+- 🔗 LinkedIn: [Sam Schoenberg](https://www.linkedin.com/in/john-schoenberg-61000596/)
 
-I’m looking forward to collaborating on projects that are at the intersection of technology and [Your Focus Area]. Let’s connect! 🌍
+I look forward to collaborating on projects at the intersection of technology, finance, and DeFi. Let’s connect! 🌍
 
----
-
-Fill in the placeholders with your information, and you'll have a polished, professional profile ready to share!
