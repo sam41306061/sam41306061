@@ -7,13 +7,13 @@ With a background in finance and economics, I bring a unique combination of tech
 ## Technical Skills 🛠️
 - **Languages:** TypeScript/JavaScript, Solidity, CSS, HTML
 - **Frameworks & Libraries:** React, Vue, Hardhat, Node.js
-- **Tools & Platforms:** ACC, Azure, Git, ACC
+- **Tools & Platforms:** ACC, Azure, Git, Redis
 
 ## Key Projects 📚
 - **Redux Counter for Blockchain:** Basic implementation of Solidity into a React counter application.
 - **Blockchain Exchange:** Fully functional landing page for a DApp exchange platform.
 - **Trading Bot:** A trading bot application that analyzes market trends.
-- **Projector-Go-Typescript-Rust:** A polyglot CLI terminal application written in three languages.
+- **Projector-Go-Typescript-Rust:** A polyglot CLI terminal application written in Rust, Go, and Typescript
 
 You can view these and more at [My GitHub](https://github.com/sam41306061?tab=repositories).
 
