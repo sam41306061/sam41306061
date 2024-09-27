@@ -5,7 +5,7 @@ I’m a QA Developer at Vail Resorts 🎖️ and a Software Engineer focused on 
 With a background in finance and economics, I bring a unique combination of technical and financial expertise to the programming world. My passion lies in developing software solutions that solve problems and create opportunities in DeFi and finance.
 
 ## Technical Skills 🛠️
-- **Languages:** TypeScript/JavaScript, Solidity, CSS, HTML
+- **Languages:** TypeScript/JavaScript, Solidity, CSS, HTML, SQL
 - **Frameworks & Libraries:** React, Vue, Hardhat, Node.js
 - **Tools & Platforms:** ACC, Azure, Git, Redis
 
