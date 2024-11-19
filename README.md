@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sam Schoenberg
-I’m a QA Developer at Vail Resorts 🎖️ and a Software Engineer focused on harnessing technology to make a significant impact in the tech industry and beyond.
+I’m a QA Developer at Vail Resorts and a Software Engineer focused on harnessing technology to make a significant impact in the tech industry and beyond.
 
 ## About Me
 With a background in finance and economics, I bring a unique combination of technical and financial expertise to the programming world. My passion lies in developing software solutions that solve problems and create opportunities in DeFi and finance.
