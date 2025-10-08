@@ -5,8 +5,8 @@ I’m a QA Manager at Vail Resorts and a Software Engineer focused on harnessing
 With a background in finance and economics, I bring a unique combination of technical and financial expertise to the programming world. My passion lies in developing software solutions that solve problems and create opportunities in DeFi and finance.
 
 ## Technical Skills 🛠️
-- **Languages:** TypeScript/JavaScript, Solidity, CSS, HTML, SQL
-- **Frameworks & Libraries:** React, Vue, Hardhat, Node.js
+- **Languages:** TypeScript/JavaScript, Python, CSS, HTML, SQL
+- **Frameworks & Libraries:** React, Vue, Node.js, QuantConnect
 - **Tools & Platforms:** ACC, Azure, Git, Redis
 
 ## Key Projects 📚
