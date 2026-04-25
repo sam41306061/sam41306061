@@ -7,7 +7,7 @@ With a background in finance and economics, I bring a unique combination of tech
 ## Technical Skills 🛠️
 - **Languages:** TypeScript/JavaScript, Python, CSS, HTML, SQL
 - **Frameworks & Libraries:** React, Vue, Node.js, QuantConnect
-- **Tools & Platforms:** ACC, Azure, Git, Redis
+- **Tools & Platforms:** ACC, Azure, Git Actions, Redis, Snap Logic
 
 ## Key Projects 📚
 -**Blockchain Exchange:** Fully functional landing page for a DApp exchange platform.
